@@ -1,0 +1,19 @@
+{
+    "records": [
+        {
+            "id": 1,
+            "date": "08.05.2026",
+            "temperature": 26.0,
+            "description": "жарко, немного ветренно и солнечно",
+            "precipitation": false
+        },
+        {
+            "id": 3,
+            "date": "01.01.2026",
+            "temperature": -25.0,
+            "description": "снег, буран",
+            "precipitation": true
+        }
+    ],
+    "next_id": 4
+}
